@@ -1,0 +1,58 @@
+{
+  "originUrl": "https://www.knowpneumonia.com/",
+  "totalUrls": 10,
+  "urls": [
+    {
+      "url": "https://www.knowpneumonia.com/",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/understand-your-risk",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/help-protect-yourself",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/take-action",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/share-your-story",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/helpful-resources",
+      "source": "NAV"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/sitemap",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.knowpneumonia.com/unsubscribe",
+      "repCount": 1,
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {}
+  }
+}
